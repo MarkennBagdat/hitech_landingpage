@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/7c6b5db7-b6b6-44bf-a03f-e8f8269eafc6)# Hi-Tech KZ Project
-
 **Project URL**: [Hi-Tech KZ](https://hi-techkz.com/)
 
 ## Overview
