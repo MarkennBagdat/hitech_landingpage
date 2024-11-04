@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+![image](https://github.com/user-attachments/assets/7c6b5db7-b6b6-44bf-a03f-e8f8269eafc6)# Hi-Tech KZ Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Project URL**: [Hi-Tech KZ](https://hi-techkz.com/)
 
-## Available Scripts
+## Overview
+The Hi-Tech KZ project is a dynamic online platform dedicated to technology news and updates in Kazakhstan. The website aims to provide users with timely information on the latest developments in the tech industry, making it a valuable resource for tech enthusiasts.
 
-In the project directory, you can run:
+## Key Contributions
 
-### `npm start`
+1. **Responsive Design**:  
+   Implemented a fully responsive design to ensure that the website provides an optimal viewing experience across a wide range of devices, from desktop computers to mobile phones. This involved utilizing CSS media queries and flexible grid layouts to adapt the content seamlessly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **News Page Integration**:  
+   Developed and integrated a news page that dynamically pulls the latest articles and updates. This feature enhances user engagement by providing fresh content and allows for easy navigation through various tech topics.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Animations and Interactivity**:  
+   Added animations to key elements of the site, such as transitions for buttons and loading indicators for content. These animations make the interface more interactive and visually appealing, creating a more enjoyable browsing experience for users.
 
-### `npm test`
+4. **Tech Stack**:  
+   The project was built using modern web technologies including HTML, CSS, JavaScript, and React.js, which allowed for efficient state management and component-based architecture.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Conclusion
+The Hi-Tech KZ project showcases my ability to create engaging and user-friendly web applications. By focusing on responsiveness, content integration, and interactivity, I have contributed to a platform that serves the tech community in Kazakhstan effectively.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/user-attachments/assets/ffb34c5f-c50b-48f8-9d8c-2d1241e0f1ff)
+![image](https://github.com/user-attachments/assets/65046379-8ebe-4cf2-ad11-0e7d57194868)
